@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DxWFrame", "DxWFrame.vcxproj", "{AF771485-FE7C-4983-8ACF-1E5D1DD0A86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF771485-FE7C-4983-8ACF-1E5D1DD0A86B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF771485-FE7C-4983-8ACF-1E5D1DD0A86B}.Debug|Win32.Build.0 = Debug|Win32
+		{AF771485-FE7C-4983-8ACF-1E5D1DD0A86B}.Release|Win32.ActiveCfg = Release|Win32
+		{AF771485-FE7C-4983-8ACF-1E5D1DD0A86B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D76C1DD-537C-4167-873F-A2CF08F61B78}
+	EndGlobalSection
+EndGlobal
